@@ -3,8 +3,6 @@
 [![WordPress Plugin Version](https://img.shields.io/badge/WordPress-6.0%2B-blue)](https://wordpress.org/)
 [![License](https://img.shields.io/badge/License-GPL%20v2-green.svg)](https://www.gnu.org/licenses/gpl-2.0.html)
 
-## English Description
-
 **Block External Services** is a lightweight WordPress plugin that blocks outgoing HTTP requests to specified domains including Google Fonts, Elementor, and Gravatar. It helps improve privacy, reduce external dependencies, and fix slow loading times when external services are blocked at the server level.
 
 ### Features
@@ -22,8 +20,6 @@
 3. Go to **Settings → Block External Services** to manage blocked domains
 
 ---
-
-## توضیحات فارسی
 
 **افزونه مسدودسازی سرویس‌های خارجی** یک افزونه سبک وردپرس است که درخواست‌های خروجی به دامنه‌های مشخص شده (مانند فونت‌های گوگل، المنتور و Gravatar) را مسدود می‌کند. این افزونه به بهبود حریم خصوصی، کاهش وابستگی‌های خارجی و رفع مشکل کندی بارگذاری در سرورهایی که به سرویس‌های خارجی دسترسی ندارند، کمک می‌کند.
 
