@@ -1,0 +1,14 @@
+# Archives
+*.zip
+*.tar.gz
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Editor directories
+.vscode/
+.idea/
